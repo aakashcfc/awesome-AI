@@ -1,10 +1,6 @@
 #!/usr/local/bin/python3
 # assign.py : Assign people to teams
-#
-# Code by: name IU ID
-#
-# Based on skeleton code by R. Shah and D. Crandall, January 2021
-#
+
 
 import sys
 import time
