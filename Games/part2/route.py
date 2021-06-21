@@ -1,10 +1,6 @@
 #!/usr/local/bin/python3
 # route.py : Find routes through maps
-#
-# Code by: name IU ID
-#
-# Based on skeleton code by V. Mathur and D. Crandall, January 2021
-#
+
 
 
 # !/usr/bin/env python3
